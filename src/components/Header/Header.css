@@ -1,0 +1,15 @@
+.root{   
+    height: 64px;
+    background-color: #006d77;
+}
+.root > .header_container{   
+        height: 100%;
+        display: flex;
+        justify-content: space-between;       
+}
+.nav_item{
+    color: #fff;
+    margin: 0 16px;
+    text-decoration: none;
+   }
+   
